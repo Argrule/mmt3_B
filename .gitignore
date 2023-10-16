@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 # 忽略自动引入文件
-types/auto-imports.d.ts
-types/components.d.ts
-.eslintrc-auto-import.json
+# types/auto-imports.d.ts
+# types/components.d.ts
+# .eslintrc-auto-import.json
